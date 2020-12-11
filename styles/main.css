@@ -1,3 +1,9 @@
 body{
     border-style: dashed;
 }
+
+p {
+    font-family: fino-sans, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
