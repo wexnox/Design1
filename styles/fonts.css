@@ -26,3 +26,7 @@ h1 {
     font-weight: 700;
     font-style: normal;
 }
+@font-face {
+    font-family: "Roboto", sans-serif;
+    src: url('../fonts/Roboto/Roboto-Bold.ttf');
+}

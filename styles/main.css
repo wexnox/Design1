@@ -1,3 +1,37 @@
-body{
+html, body{
+    margin: 0;
+    padding: 0;
+}
 
+img {
+    max-width: 300px;
+    float: left;
+    margin-right: 15px;
+}
+
+header {
+    background-image: url("../images/foggy_forest.jpg");
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*nav {*/
+/*    display: block;*/
+/*}*/
+
+ul {
+    padding: 0px;
+}
+
+li {
+   display: inline;
+}
+
+nav a {
+    padding: 10px;
+}
+
+.content {
+    font-weight: bold;
 }
